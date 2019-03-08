@@ -1,2 +1,2 @@
 # Scribble
-Social Investment Platform
+Social Investment And Reward Sharing Platform
